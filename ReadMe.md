@@ -1,4 +1,4 @@
-/*  FILE          : AssignmentNo5.ino
+/*  FILE          : GPSParsing.ino
  *  PROJECT       : PROG8125-16S - Assingment #5
  *  PROGRAMMER    : Mayur Hadole (5783)
  *  FIRST VERSION : 2016-07-13
